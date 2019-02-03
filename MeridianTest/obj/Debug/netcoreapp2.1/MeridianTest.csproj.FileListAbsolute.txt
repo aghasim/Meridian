@@ -1,0 +1,64 @@
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.deps.json
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.runtimeconfig.json
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.runtimeconfig.dev.json
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.dll
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csprojAssemblyReference.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csproj.CoreCompileInputs.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorAssemblyInfo.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorAssemblyInfo.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.AssemblyInfoInputs.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.AssemblyInfo.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.TagHelpers.input.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.TagHelpers.output.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorCoreGenerate.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorTargetAssemblyInfo.cache
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorTargetAssemblyInfo.cs
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.pdb
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.Views.dll
+F:\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.Views.pdb
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.Views.pdb
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.dll
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.pdb
+F:\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csproj.CopyComplete
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.deps.json
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.runtimeconfig.json
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.runtimeconfig.dev.json
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.dll
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.pdb
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.Views.dll
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\bin\Debug\netcoreapp2.1\MeridianTest.Views.pdb
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csprojAssemblyReference.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csproj.CoreCompileInputs.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorAssemblyInfo.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorAssemblyInfo.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.AssemblyInfoInputs.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.AssemblyInfo.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.TagHelpers.input.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.TagHelpers.output.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorCoreGenerate.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorTargetAssemblyInfo.cache
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.RazorTargetAssemblyInfo.cs
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.Views.pdb
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.dll
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.pdb
+D:\Disk F\Test Projects\MeridianTest\MeridianTest\obj\Debug\netcoreapp2.1\MeridianTest.csproj.CopyComplete
